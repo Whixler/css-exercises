@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(255, 174, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.large{
+    font-size: 24px;
+}
+#div1{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#div2{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
